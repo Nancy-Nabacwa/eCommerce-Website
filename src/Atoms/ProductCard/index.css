@@ -1,0 +1,39 @@
+.product-img{
+    height: 100px;
+}
+.product-name{
+    font-size: 20px;
+    font-family: 'poppins', serif;
+    
+}
+
+.product-card{
+    width: 45%;
+    text-align: center;
+}
+.product-words{
+    width: 65%;
+    margin-left: 25%;
+}
+
+.product-words h4{
+color: #F1553C;
+}
+.price-tag{
+    display: flex;
+    gap:20px;
+    
+}
+.price-tag2{
+    display: flex;
+    gap:50%;
+    
+}
+.cart2-icon{
+font-size: 30px;
+margin-top: 15px;
+}
+.heart-icon{
+    margin-top: 15px;
+    font-size: 30px;
+}

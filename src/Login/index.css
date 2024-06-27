@@ -1,0 +1,39 @@
+@import url('href://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.signUpForm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'poppins', sans-serif;
+    border: 2px solid rgb(209, 206, 206);
+    width: 30%;
+    margin: 8% 35%;
+    padding: 1% 0%;
+}
+
+.signup-inputs{
+    padding: 20px;
+    font-size: 20px;
+    width: 260px; 
+    border-radius: 3px;
+    border: 1px solid  rgb(209, 206, 206);
+}
+
+.register-button{
+    align-self: center;
+    padding: 20px;
+    width: 300px;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    border-radius: 3px;
+    background-color: #F1553C;
+    border: none;
+    color: white;  
+    cursor: pointer;
+}
+
+.already-text2{
+    font-size: 20px;
+    text-decoration:underline;
+    color:  rgb(209, 206, 206);
+    cursor: pointer;
+}
